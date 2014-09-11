@@ -9,7 +9,6 @@ using Android.OS;
 using Android.Speech.Tts;
 using System.Collections.Generic;
 
-// Test Change
 namespace TextToSpeech.Droid
 {
     [Activity(Label = "TextToSpeech.Droid", MainLauncher = true, Icon = "@drawable/icon")]
